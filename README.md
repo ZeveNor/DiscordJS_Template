@@ -18,8 +18,7 @@ an open source common Discord bot starterpack. using [Discord.js](https://discor
 
 Complete all your bot info in config.json
 ```
-* Token = Your_Bot_Token
-* Prefix = your_BOT_Prefix
-* Owner = your_Discord_id
+* token = Your_Bot_Token
+* prefix = your_BOT_Prefix
 ```
 - You can find Your_Bot_Token [right here](https://discordapp.com/developers)
